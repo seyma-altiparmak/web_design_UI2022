@@ -1,0 +1,4 @@
+~üst bar siyah olmalı css dosyası eklentilemedim.
+~cssi kendin oluştur.
+~giriş ve çıkış yap ve kayıt ol olacak. Sign Up/in vs vs.
+~takıl

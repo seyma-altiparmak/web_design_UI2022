@@ -1,0 +1,65 @@
+/* CSS Document */
+#headerone{
+    background-color: black;
+    size:50%;
+}
+#all{
+    text-align: left;
+}
+body{
+    background-color: black;
+}
+article
+{
+padding:10px;
+color: aliceblue;
+border:double 3px #fdfdfd;
+margin-top:10px;
+}
+ #white{
+     background-color: #0026ff;
+     color: azure;
+ }
+header
+{
+padding:0px;
+text-align:center;
+}
+ 
+aside
+{
+margin-top:5px;
+background-color:#F0BCBD;
+padding:5px;
+text-align:left;
+font-style:italic;
+border:double 3px #000000;
+}
+ 
+section
+{
+padding:5px;
+border:solid 3px #0026ff;
+margin-top:5px;
+}
+ 
+footer
+{
+padding:5px;
+text-align:center;
+font-weight:bold;
+}
+ 
+nav
+{
+text-align:center;
+}
+ul li
+{
+display:inline;
+padding-left:5px;
+padding-right:5px;
+text-align:left;
+font-size:16px;
+font-weight:bold;
+}
