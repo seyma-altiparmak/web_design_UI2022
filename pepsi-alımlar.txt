@@ -1,0 +1,174 @@
+				Pepsi::
+		1-Electrical Maintenance Supervisor
+--Tam Zamanlı
+--10.001+ çalışan · Gıda ve İçecek Hizmetleri
+--Aktif olarak işe alım yapıyor
+----------------------------------------------------------------------------------
+Auto req ID: 263576BR
+----------------------------------------------------------------------------------
+Job Description
+Managing and developing the Electrical technicians,
+To manage Predictive, Planned, Preventive, Corrective and Reactive maintenance activities,
+To manage control and maintenance activities by actively participating in planned periodic controls and planned maintenance,
+In necessary cases; managing the process by communicating with OEM companies for spare parts supply and maintenance activities
+Recording maintenance activities,
+To produce and implement preventive solutions by analyzing the causes of failure and risk in depth in order to keep the breakdown rate at the target,
+Able to use root cause analysis methods such as 5 why, fishbone in failure and loss of productivity issues,
+To determine the equipment and building needs that will enable the factory and the electrical maintenance process to work more effectively and to share them with the Technical Systems Manager,
+Organizing, managing and supervising the subcontractors,
+To follow the budgets of the department, to plan and manage business plans accordingly and to ensure efficient use of resources,
+Leading new Capex projects, to execute according to technical specifications and PepsiCo requirements,
+Participating in Lean agenda, Standard work projects, Productivity projects and improvement projects in the Plant and taking an active role in related issues.
+Support and taking an active role in the QCDM, Lean agenda,
+To ensure the most efficient management of energy resources,
+To follow up energy consumption data and support reporting. Taking action with the technical systems manager and electrical maintenance supervisor when necessary,
+Managing quality, productivity, improvement and recon projects,
+To determine the critical spare parts stock quantities, stocked and non-stocked spare parts, consumable and service needs that will ensure the continuous operation of the facilities and to take the necessary actions to supply them.
+To manage the MyBuy process in coordination with the purchasing department, to ensure the creation of technical specifications and purchase orders, to approve incoming purchased materials.
+To ensure that employees work in accordance with PepsiCo culture, to follow employees attendance / leave / rest / overtime, etc., performs 1:1 and team meetings and interviews, listen to their requests and suggestions, informs the HR and Plant Manager when necessary,
+To organize the duty distribution of the staff depending on the work schedule,
+To follow up the performance of the electrical maintenance process and technicians, to report them, to provide feedback and to take necessary actions for their continuous improvement.
+To follow the training programs required to increase the competence of electrical maintenance technicians and to ensure their participation.
+Gives proposal in order to increase the skills, effectiveness, motivations of the direct and indirect reports, plays active role in related social activities and organizations,
+Working in coordination with Human Resources regarding the orientation of new personnel.
+To participate in the studies of quality, health and safety, environmental management and food safety systems, to carry out the studies, to take the necessary technical actions and to ensure that they are implemented in the departments they are responsible for,
+Ensuring that the departments and employees under its responsibility are in compliance with Global, legal and internal evaluation programs such as GEHSMS, ISO 14001, ISO 9001, FSSC, AIB,
+To manage the necessary Fire Safety, Work Safety and Work Permits actions and ensure that the rules are followed. To perform fire safety and work safety actions,
+Controls the fixed assets operations for the new machines and equipment to be purchased,
+Assisting inventory officers in fixed asset and spare parts counts,
+To accompany FM Global audits and to ensure that actions are closed within the specified time.
+To follow the PEMM agenda and to take responsibility to ensure that necessary actions are taken.
+Follows the environmental management system and Environment legislations in terms of resource utilizations and waste management,
+Communicates with the environment responsible in terms of unsuitable conditions for the environment,
+Ensuring that the quality system records are kept updated,
+To prepare and / or support the presentations of the Technical Systems department,
+Communicates with the government agencies and improves existing relations,
+To establish relations with private and public institutions related to its subject and to develop existing relations, to ensure that activities such as installation control, HV and LV switch maintenance, paratorner control, energy notifications are completed without delay.
+Perform the duties assigned by the Technical Systems manager which included in the role, responsibilities and competences,
+Follows the code of conduct.
+---------------------------------------------------------------------------------
+		Qualifications/Requirements
+Electrical Engineering Background
+Experience on Industrial Maintenance
+Well spoken & written English language
+MS-Office Applications
+AutoCad Application,
+Strong communication skills, teamworking and consumer centric,
+Decision-making skills,
+---------------------------------------------------------------------------------
+Relocation Eligible: Eligible for Standard Relocation
+
+Job Type: Regular
+--------------------------------------------------------------------------------
+********************************************************************************
+--------------------------------------------------------------------------------
+			2-Automation Maintenance Assoc. Supervisor
+--Tam Zamanlı
+--10.001+ çalışan · Gıda ve İçecek Hizmetleri
+--Aktif olarak işe alım yapıyor
+--------------------------------------------------------------------------------
+Auto req ID: 269822BR
+--------------------------------------------------------------------------------
+Job Description
+Planning the automation / software needs of the plant,
+To research new technologies, evaluate their applicability in Plant and share with the plant management team.
+To actively participate in the elimination of breakdown in production lines and Utilities.
+Control and maintenance duty performed for protective purposes; making and recording by following verbal or written instructions.
+Intervention and installation in case of low voltage, control circuits, automation, machine / conveyor systems, AC / DC motors, maintenance of communication lines, malfunctions or new equipment installations.
+Protecting machinery and technical equipment, preventing unconscious intervention,
+To participate in the studies of quality, health and safety, environmental management and food safety systems, to carry out the studies, to take the necessary technical actions and to ensure that they are implemented in the departments they are responsible for,
+To determine the critical spare parts stock quantities, stocked and non-stocked spare parts, consumable and service needs that will ensure the continuous operation of the facilities and to take the necessary actions to supply them. Keeping records of the parts or materials used,
+Supporting the maintenance team in order to meet the maintenance needs apart from the automation works when necessary,
+In necessary cases; managing the process by communicating with OEM companies for spare parts supply and maintenance activities
+Support and taking an active role in the QCDM, Lean agenda,
+To ensure the most efficient management of energy resources,
+To actively participate in scheduled periodic controls and maintenance, to carry out and manage related control and maintenance activities,
+Ensuring that the departments and employees under its responsibility are in compliance with Global, legal and internal evaluation programs such as GEHSMS, ISO 14001, ISO 9001, FSSC, AIB,
+Repair of the emergency downtimes according to true efficiency and technical availability targets.
+Making the criticality analysis for the plant for continuous running of the lines.
+Deep knowledge in PLC (Allen Bradley).
+Advanced level of SCADA design. (Wonderware).
+Communicate with CTS (Central Technical Systems) team for reporting maintenance KPIs, sustainability data and spare parts inventory management.
+Design and improve new online energy monitoring system.
+Develop new sustainability projects (green energy) acting in contact with the government.
+Management of MESS systems and has deep knowledge in Safety Instrumented System [SIS] model validation calculations (e.g., Safety Integrity Level [SIL], reliability, availability, etc.); Sensor
+-----------------------------------------------------------------------------------
+	Qualifications/Requirements
+Bsc / Msc Degree at Electrical/Electronic Engineering, Electrical and Electronic Engineering, Electronics Communication Engineering or Automation Engineer
+Experience on Industrial Maintenance
+Preferably have a good knowledge of English/Turkish,
+MS Office & Technical Software application knowledge. (Word, Excel, Power Point, Wonderware-Intouch(systemplatform knowledge preferred), Allen Bradley HMI PLC software (knowledge preferred), etc.)
+Strong communication skills, teamworking and consumer centric
+------------------------------------------------------------------------------------
+Relocation Eligible: Not Eligible for Relocation
+Job Type: Regular
+------------------------------------------------------------------------------------
+			3-Control System Leader
+--Tam Zamanlı · Orta-Üst Düzey Yönetici
+--10.001+ çalışan · Gıda ve İçecek Hizmetleri
+--Aktif olarak işe alım yapıyor
+------------------------------------------------------------------------------------
+ Auto req ID: 274235BR
+------------------------------------------------------------------------------------
+Job Description
+Management of plant’s predictive and preventive maintenance.
+Repair of the emergency downtimes according to true efficiency and technical availability targets.
+Capability development of maintenance crew via trainings and Kaizen projects.
+Tracking and following up department budget.
+Management and implementation of quality, safety, improvement and resource conservation projects.
+Taking necessary actions in plant for working in high level AIB, IPS, GEHSMS standards.
+Making the criticality analysis for the plant for continuous running of the lines.
+Management of the energy resources.
+Reporting and controlling energy, downtime, maintenance cost, safety and projects KPIs.
+Organizing the root cause analysis sessions for the team in order to eliminate downtimes, AIB and safety problems.
+Tracking of the maintenance team performance and getting improving actions when necessary.
+Ensure all maintenance activities done according to GEHSMS and ISO 14001 standards.
+Management of industrial equipment and utilities.
+Follow up and ensure the legal controls of pressure vessels, lifting equipment, fire system.
+Lead the FM Global audits and take actions for the improvements.
+Duty holder for the PeMM assessment value drivers.
+Identify, study, propose, and implement area for improvement (project) in the field of instrumentation and automation engineering to enhance operation and improve total equipment reliability.
+Advanced knowledge in APC (Advanced process control).
+High level capability in DCS (Distributed control systems)
+Deep knowledge in automation for the new high technology equipment. (GUACP, DD, Odenberg, TNA etc).
+Deep knowledge in PLC (Allen Bradley).
+Advanced level of SCADA design. (Wonderware).
+Proved knowledge about industrial communication protocols especially ethernet, devicenet and profibus technologies.
+Leading Industry 4.0 agenda for the plant.
+Following productivity agenda and manage the lean six sigma projects.
+Communicate with CTS (Central Technical Systems) team for reporting maintenance KPIs, sustainability data and spare parts inventory management.
+Lead the certification process of ISO 5001 – Energy Management Systems Certification program.
+Maintenance activities for energy regeneration plant.
+Take the responsibilities of plants CAPEX agenda after the new organization of the CTS team.
+Design and improve new online energy monitoring system.
+Follow up plant’s lean agenda.
+Duty holder in “Control Systems”.
+Develop new sustainability projects (green energy) acting in contact with the government.
+Manage increasing building design agenda due to the age of the plant.
+Management of the contractors and ensure their working according to PTW system.
+Management of MESS systems and has deep knowledge in Safety Instrumented System [SIS] model
+validation calculations (e.g., Safety Integrity Level [SIL], reliability, availability, etc.); Sensor characteristics (e.g., rangeability, accuracy and precision, temperature effects, response times, reliability, repeatability, etc.); Sensor technologies applicable to the desired type of measurement (e.g., flow, pressure, level, temperature, analytical, counters, position, motion, vision, etc.)
+Implementing instrument detail design on P&ID's.
+Qualifications Prepares instrument data sheets and loop diagrams.
+Prepares instrument material take-off.
+Implements detail engineering activities (layouts, routings, supports...).
+Performs the F.A.T.
+Creating test procedures
+Testing, evaluating, modifying and calibrating of instruments
+To monitor and manage energy consumption within the scope of ISO 50001 Energy Management System, to comply with the plan, to organize corrective and preventive actions for over-plan consumption, to establish systems and processes necessary for the improvement of energy performance, including energy efficiency, use and consumption.
+-------------------------------------------------------------------------------------------
+	Qualifications/Requirements
+Bsc / Msc Degree at Electrical Electronic Engineering, Electronics Communication Engineering
+Experienced in industrial maintenance
+Advanced English/Turkish Level
+Advance level in MS Office Application,
+Advanced in PLC skills (Allen Bradley)
+High level of SCADA design.
+Advanced level in E-plan, devicenet, profibus and ethernet
+High level in communications skills, team worker and customer oriented.
+Decision maker and result oriented.
+Have capability working under stress.
+Open to new ideas and innovation focused.
+-------------------------------------------------------------------------------------------
+Relocation Eligible: Eligible for Standard Relocation
+Job Type: Regular
